@@ -31,6 +31,10 @@ h1{
   line-height: 56px; 
 }
 
+footer a + a{
+  margin-left: 28px;
+}
+
 a{
   color:#FF9900;
 }
